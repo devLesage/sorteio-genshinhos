@@ -84,7 +84,7 @@
       display: block;
       transition: transform 5s cubic-bezier(0.33, 1, 0.68, 1);
       border-radius: 50%; 
-      border: 5px solid var(--secondary-color); 
+      border: 0.3em solid var(--secondary-color); 
     }
     #pointer {
       position: absolute;
